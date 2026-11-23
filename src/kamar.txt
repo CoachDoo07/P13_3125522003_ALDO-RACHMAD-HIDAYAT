@@ -1,0 +1,2 @@
+K01|Single|500000.0|false
+001|Double|7000000.0|false
